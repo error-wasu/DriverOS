@@ -27,3 +27,7 @@ _(ว่าง)_
 ## Blue
 
 _(ว่าง)_
+
+## Scribe
+
+- 2026-07-20: Commit + push ไฟล์เอกสารที่สะสมไว้ local ทั้งหมดขึ้น `origin/main` (github.com/error-wasu/DriverOS) — commit `51cf49a`, 92 ไฟล์ (แก้ไข `CLAUDE.md`, `README.md`; ไฟล์ใหม่ครอบคลุม `decisions/`, `docs/`, `hq/`, `product/`, `research/`, `automation/` และไฟล์ root เช่น `AGENTS.md`, `AI_CONSTITUTION.md` ฯลฯ) — ตรวจสอบแล้วไม่มี credential/secret จริงหลุดไปด้วย ก่อน push ได้ขอ confirm จากผู้ใช้แล้วตามกฎ CLAUDE.md ข้อ 5
